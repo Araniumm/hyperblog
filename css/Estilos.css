@@ -1,0 +1,26 @@
+body
+{
+  color: black;
+  text-align: center;
+<<<<<<< HEAD
+  font-family: Courier ;
+=======
+  font-family: Arial ;
+}
+
+#cabecera
+{
+  color:white;
+  background: blue;
+  font-weight: bold;
+  margin: 0 ;
+}
+
+#cabecera #tagline 
+{
+  padding: 0 0 0 1em;
+  font-weight: normal;
+  font-size: 0.8em;
+
+>>>>>>> cabecera
+}
